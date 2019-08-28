@@ -5,7 +5,7 @@
 
 ![IMAGE](https://www.gmcert.org/image/gmcert_logo320.png "GMCert")
 
-![IMAGE](https://github.com/gmcert/GMCert_tmp1/blob/master/gmcert_land640.png "GMCert")
+![IMAGE](https://github.com/sendwave/test1/blob/master/gmcert_640.jpg?raw=true "GMCert")
 
 aaa
 
